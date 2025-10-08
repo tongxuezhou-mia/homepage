@@ -34,5 +34,5 @@ redirect_from:
 
 联系方式
 ------
-电子邮箱：txzhou@hznu.edu.cn
-办公地址：杭州师范大学勤园12号楼-521室
+- 电子邮箱：txzhou@hznu.edu.cn
+- 办公地址：杭州师范大学勤园12号楼-521室
