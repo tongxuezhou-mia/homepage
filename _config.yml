@@ -24,7 +24,7 @@ repository               : "tongxuezhou-mia/homepage"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://tongxuezhou-mia.github.io/homepage/images/profile1.png"
+  avatar           : "https://tongxuezhou-mia.github.io/homepage/images/profile.png"
   name             : "周同雪 （Tongxue ZHOU）"
   pronouns         : # example: "she/her"  
   bio              : "博士，副教授，硕导"
