@@ -11,6 +11,7 @@ redirect_from:
 
 教育背景
 ======
+<i class="fa-solid fa-graduation-cap"></i> 教育背景
 - 2018.10-2021.01	法国鲁昂国立应用科学学院（INSA ROUEN）	博士（CSC国家公派）
 - 2017.08-2018.08	德国弗劳恩霍夫研究所（Fraunhofer-IGD）	访问学者
 - 2015.09-2022.06	中国科学院大学	长春光学精密机械与物理研究所	硕士（保送）
@@ -18,11 +19,13 @@ redirect_from:
 
 工作经历
 ======
+<i class="fa-solid fa-briefcase"></i> 工作经历
 - 2022.9-至今	杭州师范大学	信息科学与技术学院	副教授
 - 2025.03-2027.03	南京农业大学	博士后
 
 研究方向
 ======
+<i class="fa-solid fa-flask"></i> 研究方向
 - 深度学习与计算机视觉：图像分类、语义分割、目标检测、视觉跟踪。
 
 - 医学影像分析：基于 MRI、CT、PET 等的病变与解剖结构识别与复发预测。
@@ -34,5 +37,6 @@ redirect_from:
 
 联系方式
 ======
+<i class="fa-solid fa-envelope"></i> 联系方式
 - 电子邮箱：txzhou@hznu.edu.cn
 - 办公地址：杭州师范大学勤园12号楼-521室
