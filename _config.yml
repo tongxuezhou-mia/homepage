@@ -360,5 +360,5 @@ compress_html:
 
 # add by txzhou
 extra_css:
-  - assets/css/custom.scss
+  - “https://tongxuezhou-mia.github.io/homepage/assets/css/custom.scss”
 
