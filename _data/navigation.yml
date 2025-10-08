@@ -23,8 +23,8 @@ main:
   - title: "People"
     url: /people/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Updates"
+    url: /updates/
     
   # - title: "CV"
   #   url: /cv-json/
